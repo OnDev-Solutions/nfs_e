@@ -1,0 +1,19 @@
+{
+    "name": "ondev/nfse",
+	"description": "Projeto de Emissão NFS-e"
+    "authors": [
+        {
+            "name": "Walter Ribeiro",
+            "email": "walterjunioranalise@gmail.com"
+        },
+		{
+		    "name": "Marcos Moraes",
+            "email": "marcosmoraes2303@gmail.com"
+		},
+		{
+		    "name": "Felipe Arruda",
+            "email": "felipearrudajf@gmail.com"
+		}
+    ],
+    "require": {}
+}
