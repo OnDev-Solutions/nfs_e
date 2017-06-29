@@ -16,7 +16,6 @@
 		}
     ],
     "require": {
-        "besimple/soap-common": "^0.2.6",
-        "wsdl2phpgenerator/wsdl2phpgenerator": "^3.4"
+      "wsdl2phpgenerator/wsdl2phpgenerator": "^3.4"
     }
 }
