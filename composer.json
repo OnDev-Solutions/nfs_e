@@ -1,6 +1,6 @@
 {
     "name": "ondev/nfse",
-	"description": "Projeto de Emissão NFS-e"
+	"description": "Projeto de Emissão NFS-e",
     "authors": [
         {
             "name": "Walter Ribeiro",
@@ -15,5 +15,8 @@
             "email": "felipearrudajf@gmail.com"
 		}
     ],
-    "require": {}
+    "require": {
+        "besimple/soap-common": "^0.2.6",
+        "wsdl2phpgenerator/wsdl2phpgenerator": "^3.4"
+    }
 }
